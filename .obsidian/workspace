@@ -1,72 +1,155 @@
 {
   "main": {
-    "id": "f8ae9dcc87a74d92",
+    "id": "52bb8429b59bf6aa",
     "type": "split",
     "children": [
       {
-        "id": "a3a8f4326c08613f",
+        "id": "3c4a13983d1454f5",
         "type": "leaf",
         "state": {
-          "type": "empty",
-          "state": {}
+          "type": "markdown",
+          "state": {
+            "file": "Obsidian通过git多端协同.md",
+            "mode": "source"
+          }
         }
       }
     ],
     "direction": "vertical"
   },
   "left": {
-    "id": "955625d6c1cd96bd",
-    "type": "mobile-drawer",
+    "id": "d52926544793a87b",
+    "type": "split",
     "children": [
       {
-        "id": "28022773f854d0cf",
-        "type": "leaf",
-        "state": {
-          "type": "file-explorer",
-          "state": {}
-        }
-      },
-      {
-        "id": "08143151b9165cc1",
-        "type": "leaf",
-        "state": {
-          "type": "search",
-          "state": {
-            "query": "",
-            "matchingCase": false,
-            "explainSearch": false,
-            "collapseAll": false,
-            "extraContext": false,
-            "sortOrder": "alphabetical"
+        "id": "224c9f3f833b61ee",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "66ecc9aaefc7c196",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "c0be795a5001a24d",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "9f7739e2611ba15f",
+            "type": "leaf",
+            "state": {
+              "type": "starred",
+              "state": {}
+            }
           }
-        }
+        ]
       }
     ],
-    "currentTab": 0
+    "direction": "horizontal",
+    "width": 300
   },
   "right": {
-    "id": "5ba53fd3072c0e40",
-    "type": "mobile-drawer",
+    "id": "5af492416317fa60",
+    "type": "split",
     "children": [
       {
-        "id": "5abdc30475e86736",
-        "type": "leaf",
-        "state": {
-          "type": "backlink",
-          "state": {
-            "collapseAll": false,
-            "extraContext": false,
-            "sortOrder": "alphabetical",
-            "showSearch": false,
-            "searchQuery": "",
-            "backlinkCollapsed": false,
-            "unlinkedCollapsed": true
+        "id": "932616518b389132",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "834e27f21fb80319",
+            "type": "leaf",
+            "state": {
+              "type": "calendar",
+              "state": {}
+            }
+          },
+          {
+            "id": "e87d2dac4d07e291",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Obsidian通过git多端协同.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "33f4df64701ce5e1",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Obsidian通过git多端协同.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "989cac41a31ed9b3",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "e09a346cd17a82ee",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Obsidian通过git多端协同.md"
+              }
+            }
+          },
+          {
+            "id": "eeed0a92829f1473",
+            "type": "leaf",
+            "state": {
+              "type": "todo",
+              "state": {}
+            }
           }
-        }
+        ]
       }
     ],
-    "currentTab": 0
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
   },
-  "active": "a3a8f4326c08613f",
-  "lastOpenFiles": []
+  "active": "3c4a13983d1454f5",
+  "lastOpenFiles": [
+    "Obsidian通过git多端协同.md",
+    "vnote.md",
+    "mathjax.md",
+    "mathematica.md",
+    "Obsidian操作指南.md",
+    "日记/2021年-18岁/9月.md"
+  ]
 }
