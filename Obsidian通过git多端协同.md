@@ -1,3 +1,7 @@
+## 这个文档已经被废弃
+正常同步即可，obsidian手机端不支持直接移植配置文件夹。
+另外，手机端workingCopy很容易排除cache。等再研究下pc端的git for o b
+
 ### 目标
 obsidian多端同步, 可以通过git的pull/push方式进行手动同步, 操作便捷可移植性强. 
 在ios手机/平板端也可以通过workingCopy和github进行编辑和同步.
