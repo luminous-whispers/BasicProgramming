@@ -138,7 +138,7 @@
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -147,15 +147,15 @@
   },
   "active": "a44cd890b749dd46",
   "lastOpenFiles": [
+    "Obsidian操作指南.md",
+    "文件名.后缀.md",
+    "mathematica.md",
+    "Obsidian通过git多端协同.md",
     "现象思考/历史与未来.md",
     "现象思考/网信办拟允许用户拒绝使用程序算法.md",
     "现象思考/禁止排挤外链.md",
     "现象思考/家庭体系.md",
     "现象思考/左与右.md",
-    "摘录/文革真相.md",
-    "现象思考/人性.md",
-    "摘录/供给侧结构性改革.md",
-    "摘录/国内制造业现状.md",
-    "现象思考/微信为什么要革qq的命.md"
+    "摘录/文革真相.md"
   ]
 }
