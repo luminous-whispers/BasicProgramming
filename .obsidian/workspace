@@ -1,0 +1,155 @@
+{
+  "main": {
+    "id": "52bb8429b59bf6aa",
+    "type": "split",
+    "children": [
+      {
+        "id": "3c4a13983d1454f5",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "Obsidian通过git多端协同.md",
+            "mode": "source"
+          }
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "d52926544793a87b",
+    "type": "split",
+    "children": [
+      {
+        "id": "224c9f3f833b61ee",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "66ecc9aaefc7c196",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "c0be795a5001a24d",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "9f7739e2611ba15f",
+            "type": "leaf",
+            "state": {
+              "type": "starred",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "5af492416317fa60",
+    "type": "split",
+    "children": [
+      {
+        "id": "932616518b389132",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "834e27f21fb80319",
+            "type": "leaf",
+            "state": {
+              "type": "calendar",
+              "state": {}
+            }
+          },
+          {
+            "id": "e87d2dac4d07e291",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Obsidian通过git多端协同.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "33f4df64701ce5e1",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Obsidian通过git多端协同.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "989cac41a31ed9b3",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "e09a346cd17a82ee",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Obsidian通过git多端协同.md"
+              }
+            }
+          },
+          {
+            "id": "eeed0a92829f1473",
+            "type": "leaf",
+            "state": {
+              "type": "todo",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "active": "3c4a13983d1454f5",
+  "lastOpenFiles": [
+    "Obsidian通过git多端协同.md",
+    "vnote.md",
+    "mathjax.md",
+    "mathematica.md",
+    "Obsidian操作指南.md",
+    "日记/2021年-18岁/9月.md"
+  ]
+}

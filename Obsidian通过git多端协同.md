@@ -49,3 +49,5 @@ obsidian多端同步, 可以通过git的pull/push方式进行手动同步, 操�
 5. 然后把另一个远程库/或提前存在手机的.obsidian文件夹移动到WorkingCopy该库目录下, 此时运气好的话直接就变灰了( 意味着被ignore了 ), 运气不好可以右划手动变灰
 6. 试着push一次, 看看是否ignore成功. 
  - 恭喜, 移动端和电脑端同步成功.
+ - 一言蔽之, 不要将.obsidian同步, 不要让它出现在github仓库里
+ - 不幸的是, ios端目前不支持读取文件.obsidain设置
