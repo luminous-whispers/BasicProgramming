@@ -4,12 +4,12 @@
     "type": "split",
     "children": [
       {
-        "id": "3c4a13983d1454f5",
+        "id": "db256f610784d243",
         "type": "leaf",
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Obsidian通过git多端协同.md",
+            "file": "mathematica/基础语法.md",
             "mode": "source"
           }
         }
@@ -60,7 +60,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 248.0095386505127
   },
   "right": {
     "id": "5af492416317fa60",
@@ -84,7 +84,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Obsidian通过git多端协同.md",
+                "file": "mathematica/基础语法.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -101,7 +101,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Obsidian通过git多端协同.md",
+                "file": "mathematica/基础语法.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -124,7 +124,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Obsidian通过git多端协同.md"
+                "file": "mathematica/基础语法.md"
               }
             }
           },
@@ -136,20 +136,22 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 3
       }
     ],
     "direction": "horizontal",
     "width": 300,
     "collapsed": true
   },
-  "active": "3c4a13983d1454f5",
+  "active": "db256f610784d243",
   "lastOpenFiles": [
+    "mathematica/基础语法.md",
+    "mathematica/mathematica.md",
+    "mathjax.md",
+    "Obsidian操作指南.md",
     "Obsidian通过git多端协同.md",
     "vnote.md",
-    "mathjax.md",
-    "mathematica.md",
-    "Obsidian操作指南.md",
     "日记/2021年-18岁/9月.md"
   ]
 }
