@@ -79,9 +79,9 @@ pc端:
 搭配u盘解决内存问题
 - goodnote用于浏览ppt, pdf勾画和注释. 但缺点是不能直接和文件app交互, 必须要复杂的导入导出.
 - pdfElement用于和pc端的adobe配合编辑pdf文件, 今后不常使用.
-- onenote和obsidian主要还是用于浏览pc端笔记
+- onenote和obsidian主要还是用于浏览pc端笔记，onenote用来记数学、物理或图论这样的多图富文本笔记
 - workingCopy和Code用来浏览代码, 简单修改
-- obsidian文件夹试着装在u盘上, 然后git初始化, 这样就可以使用git和pc端通过远程库同步.
+- obsidian文件夹试着装在u盘上, 然后git初始化, 这样就可以使用git和pc端通过远程库同步. 但鉴于git操作的复杂性，一般随手记还是用agenda，等闲下来使用ob同步。并且手机不会一直随时同步，所以onenote此时就有优势，同步快且方便。而且ob容易死机。只用来记一些不重要的想法，或者冷门不常用的知识。
 ## 快捷键设置:
 *总体思路是沿用vscode热键设置, 但是可能会略微改动*
 - 显示标签面板: alt +  (自定)
