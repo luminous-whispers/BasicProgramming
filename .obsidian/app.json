@@ -1,0 +1,11 @@
+{
+  "attachmentFolderPath": "附件",
+  "communityThemeSortOrder": "download",
+  "alwaysUpdateLinks": true,
+  "newFileLocation": "current",
+  "showLineNumber": false,
+  "readableLineLength": false,
+  "rightToLeft": false,
+  "lineWrap": true,
+  "promptDelete": false
+}

@@ -1,0 +1,94 @@
+{
+  "main": {
+    "id": "12064b4aa74bf317",
+    "type": "split",
+    "children": [
+      {
+        "id": "31ceceac5353d505",
+        "type": "leaf",
+        "state": {
+          "type": "empty",
+          "state": {}
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "cf57888ae437d494",
+    "type": "split",
+    "children": [
+      {
+        "id": "735a26b7ecc43fd2",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "a86c863baf746829",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "e1bea191bd99f1c4",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 252.0095386505127
+  },
+  "right": {
+    "id": "e1cff3352eb63502",
+    "type": "split",
+    "children": [
+      {
+        "id": "0e1c9f702d9f520c",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "8d84a6c458941537",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "active": "31ceceac5353d505",
+  "lastOpenFiles": [
+    "未命名.md",
+    "Obisian操作指南.md",
+    "vnote.md",
+    "未命名 1.md",
+    "mathjax.md",
+    "mathematica.md"
+  ]
+}
