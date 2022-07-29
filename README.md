@@ -1,4 +1,7 @@
-# BasicProgramming
+> **stay hungry, stay foolish.**
+<br>
+
+## BasicProgramming
+  
 personal programming notes
 
-stay hungry, stay foolish. 
