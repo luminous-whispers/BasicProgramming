@@ -113,8 +113,6 @@ int main()
 注意,如果在某一行文字前,什么都不加就摁了几次tab键(空了很多格)会导致系统将你这一行识别为代码
 
 
-
-
 Here is a ~~text~~ with strikethrough.
 
 * [x] this is a complete item.
